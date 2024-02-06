@@ -1,0 +1,19 @@
+table{
+    border-spacing: 20px;
+    padding: 10px;
+}
+tbody{
+    padding: 10px;
+}
+tr{
+    margin-top: 10px;
+}
+td{
+    background-color: #ffe5ae;
+    padding: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 16px;
+} 
